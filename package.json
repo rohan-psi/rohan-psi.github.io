@@ -2,7 +2,7 @@
   "name": "stripe-gpay",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://rohan-psi.github.io/stripe-demo",
+  "homepage": "http://rohan-psi.github.io/",
   "dependencies": {
     "@stripe/react-stripe-js": "^1.1.2",
     "@stripe/stripe-js": "^1.9.0",
